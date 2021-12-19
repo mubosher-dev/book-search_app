@@ -18,6 +18,7 @@ function displayResult(data){
         let div = document.createElement('div');
         div.classList.add('col-md-4');
         div.classList.add('my-3');
+        div.classList.add('item');
         console.log(item);
         div.innerHTML = `
         <div class="card p-4 shadow">
