@@ -1,3 +1,7 @@
 .home{
     background: rgba(100, 100, 255, 0.4);
 }
+.item{
+    height:550px!important;
+    overflow:hidden;
+}
